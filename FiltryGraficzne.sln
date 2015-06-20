@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FiltryGraficzne_AplikacjaOkienkowa", "FiltryGraficzne_AplikacjaOkienkowa\FiltryGraficzne_AplikacjaOkienkowa.vcproj", "{D9A4E182-E420-44CC-AAF5-84CAA55DE635}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B2D0FA73-47F0-4B3C-A897-801886A61B06} = {B2D0FA73-47F0-4B3C-A897-801886A61B06}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FiltryGraficzne_Biblioteka", "FiltryGraficzne_Biblioteka\FiltryGraficzne_Biblioteka.vcproj", "{B2D0FA73-47F0-4B3C-A897-801886A61B06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A4E182-E420-44CC-AAF5-84CAA55DE635}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D9A4E182-E420-44CC-AAF5-84CAA55DE635}.Debug|Win32.Build.0 = Debug|Win32
+		{D9A4E182-E420-44CC-AAF5-84CAA55DE635}.Release|Win32.ActiveCfg = Release|Win32
+		{D9A4E182-E420-44CC-AAF5-84CAA55DE635}.Release|Win32.Build.0 = Release|Win32
+		{B2D0FA73-47F0-4B3C-A897-801886A61B06}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B2D0FA73-47F0-4B3C-A897-801886A61B06}.Debug|Win32.Build.0 = Debug|Win32
+		{B2D0FA73-47F0-4B3C-A897-801886A61B06}.Release|Win32.ActiveCfg = Release|Win32
+		{B2D0FA73-47F0-4B3C-A897-801886A61B06}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+LIBRARY "FiltryGraficzne_Biblioteka"
+EXPORTS
+FiltryGraficzne
